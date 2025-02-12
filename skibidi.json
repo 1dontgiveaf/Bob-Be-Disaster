@@ -1,0 +1,18 @@
+{
+    "META": {
+      "repoName": "Bob Be Diaster...",
+      "repoIcon": "https://1dontgiveaf.github.io/Bob-Be-Diaster/image.png"
+    },
+    "Executors": [
+      {
+        "name": "Scarlet",
+        "version": "1.0",
+        "icon": "https://usescarlet.com/icon.png",
+        "down": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
+        "description": "",
+        "bundleID": "com.DebianArch.Scarlet",
+        "category": "Alpha",
+        "changelog": "- Added fakesign support\n-Added back SSL install support."
+      }
+    ]
+  }
