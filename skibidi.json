@@ -1,14 +1,14 @@
 {
     "META": {
-      "repoName": "Bob Be Diaster...",
-      "repoIcon": "https://1dontgiveaf.github.io/Bob-Be-Diaster/image.png"
+      "name": "Bob Be Disaster...",
+      "icon": "https://1dontgiveaf.github.io/Bob-Be-Disaster/image.png"
     },
     "Executors": [
       {
         "name": "Scarlet",
         "version": "1.0",
         "icon": "https://usescarlet.com/icon.png",
-        "down": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
+        "download": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
         "description": "skibidi",
         "bundleID": "com.DebianArch.Scarlet",
         "category": "Alpha",
