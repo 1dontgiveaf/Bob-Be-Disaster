@@ -1,18 +1,18 @@
 {
-    "META": {
-      "name": "Bob Be Disaster...",
-      "icon": "https://1dontgiveaf.github.io/Bob-Be-Disaster/image.png"
-    },
-    "Executors": [
-      {
-        "name": "Scarlet",
-        "version": "1.0",
-        "icon": "https://usescarlet.com/icon.png",
-        "download": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
-        "description": "skibidi",
-        "bundleID": "com.DebianArch.Scarlet",
-        "category": "Alpha",
-        "changelog": "- Added fakesign support\n-Added back SSL install support."
-      }
-    ]
-  }
+  "name": "Bob Be Disaster",
+  "identifier": "xyz.idontgiveaf.bobbebuilder",
+  "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
+  "apps": [
+    {
+      "name": "Delta Tas Knows",
+      "bundleIdentifier": "com.gloop.deltatasknows",
+      "version": "2.659.473",
+      "versionDate": "2025-02-12",
+      "size": 139700000,
+      "downloadURL": "https://github.com/1dontgiveaf/Bob-Be-Disaster/releases/download/Main/Delta-Base-v659.ipa",
+      "developerName": "idontgiveaf",
+      "localizedDescription": "A free Roblox exploit with a lot of features, for iOS.",
+      "iconURL": "https://github.com/1dontgiveaf/Bob-Be-Disaster/blob/Main/icons/Delta-Tas-Knows.png?raw=true"
+    }
+  ]
+}
