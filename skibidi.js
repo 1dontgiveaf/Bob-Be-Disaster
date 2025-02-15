@@ -1,5 +1,7 @@
 const fs = require('fs');
 
+// skibidi0
+
 function transformObject(originalObject) {
     const transformedObject = { ...originalObject, apps: null };
 

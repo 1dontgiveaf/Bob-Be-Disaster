@@ -6,13 +6,32 @@
     {
       "name": "Delta Tas Knows",
       "bundleIdentifier": "com.gloop.deltatasknows",
-      "version": "2.659.473",
-      "versionDate": "2025-02-13",
-      "size": 139700000,
-      "downloadURL": "https://github.com/1dontgiveaf/Bob-Be-Disaster/releases/download/Main/DelTasKnow.ipa",
       "developerName": "idontgiveaf",
-      "localizedDescription": "A free Roblox exploit with a lot of features, for iOS.",
-      "iconURL": "https://raw.githubusercontent.com/1dontgiveaf/Bob-Be-Disaster/refs/heads/main/icons/Delta-Tas-Knows.png"
+      "versions": [
+        {
+          "version": "2.659.473",
+          "versionDate": "2025-02-13",
+          "size": 139700000,
+          "downloadURL": "https://github.com/1dontgiveaf/Bob-Be-Disaster/releases/download/Main/DelTasKnow_v659.ipa",
+          "localizedDescription": "A free Roblox exploit with a lot of features, for iOS.",
+          "iconURL": "https://raw.githubusercontent.com/1dontgiveaf/Bob-Be-Disaster/refs/heads/main/icons/Delta-Tas-Knows.png"
+        }
+      ]
+    },
+    {
+      "name": "Delta Tas Knows [Spoofed]",
+      "bundleIdentifier": "com.gloop.deltatasknows",
+      "developerName": "idontgiveaf",
+      "versions": [
+        {
+          "version": "2.660.644",
+          "versionDate": "2025-02-16",
+          "size": 139700000,
+          "downloadURL": "https://github.com/1dontgiveaf/Bob-Be-Disaster/releases/download/Main/DelTasKnow_v660.ipa",
+          "localizedDescription": "A free Roblox exploit with a lot of features, for iOS.",
+          "iconURL": "https://raw.githubusercontent.com/1dontgiveaf/Bob-Be-Disaster/refs/heads/main/icons/Delta-Tas-Knows.png"
+        }
+      ]
     }
   ]
 }
